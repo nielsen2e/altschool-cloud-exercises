@@ -14,10 +14,10 @@ Setup Ubuntu 20.04 LTS on your local machine using Vagrant
 
 ## Solution:
 <ol>
-   <li>Download Vitual Box (A Virtualization software that aids in the use of linux OS.
+   <li>Download Virtual Box (A Virtualization software that aids in the use of linux OS).
    </li>
 
-   <li>Download Vagrant (amd64 for 64-bit computers and 686 for other processors.
+   <li>Download Vagrant (amd64 for 64-bit computers and 686 for other processors).
    </li>
 
    <li>Go to your terminal (Gitbash preferably) and create a folder boxes and cd into boxes and create another folder ubuntu and cd into ubuntu.
