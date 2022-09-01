@@ -11,12 +11,14 @@ Submit your work in a folder for this exercise in your altschool-cloud-exercises
    <li><b>hostname -I</b>
    
    This command displays all local IP addresses of the host.
+      
    ![hostname snap](./images/1.png)
    </li>
 
    <li><b>w</b>
    
    This command displays who is online.
+         
    ![w snap](./images/2.png)
    </li>
 
@@ -29,6 +31,7 @@ Submit your work in a folder for this exercise in your altschool-cloud-exercises
    <li><b>id</b>
    
    This command displays the user and group ids of your current user.
+      
    ![id snap](./images/4.png)
    </li>
 
@@ -48,24 +51,28 @@ Submit your work in a folder for this exercise in your altschool-cloud-exercises
    <li><b>du -h file</b>
    
    This command is used for checking the size of directories.
+      
    ![du snap](./images/7.png)
    </li>
 
    <li><b>file -i file</b>
    
    This command is used to display the MIME (indicates the nature and format of the document or file) type of the file.
+      
    ![file snap](./images/8.png)
    </li>
 
    <li><b>history</b>
    
    This command shows everything typed in the terminal.
+      
    ![history snap](./images/9.png)
    </li>
 
    <li><b>type</b>
    
    This command tells you whether a linux command is built-in shell command, where is it's executables located and whether it is aliased to some other command.
+      
    ![type snap](./images/10.png)
    </li>
 </ol>
