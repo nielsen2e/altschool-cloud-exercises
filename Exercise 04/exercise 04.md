@@ -1,4 +1,7 @@
+
 ![AltSchool Africa Logo](./images/1633989073690.jpg)
+
+
 
 
 # Exercise
@@ -24,18 +27,23 @@ Install PHP 7.4 on your local linux machine using the ppa:ondrej/php package rep
   sudo cat /etc/apt/sources.list
   ``` 
 
-  
+
+ 
   ![Sources.list1](./images/Sources.list1.png)
+
+
 
 
 
   ![Sources.list2](./images/Sources.list2.png)
 
 
-  
+
+
  ```sh
   php -v
   ``` 
+
 
   
   ![PHP snap](./images/PHP%20snap.png)
