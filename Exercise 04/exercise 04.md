@@ -24,19 +24,12 @@ Install PHP 7.4 on your local linux machine using the ppa:ondrej/php package rep
 ## Solution
 
  ```sh
-  sudo cat /etc/apt/sources.list
+  sudo cat /etc/apt/sources.list.d/ondrej-ubuntu-php-focal.list
   ``` 
 
 
  
-  ![Sources.list1](./images/Sources.list1.png)
-
-
-
-
-
-  ![Sources.list2](./images/Sources.list2.png)
-
+  ![ondrej-php](./images/ondrej-php.png)
 
 
 
