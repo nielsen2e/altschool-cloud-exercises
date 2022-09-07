@@ -1,5 +1,5 @@
 
-![AltSchool Africa Logo](./images/1633989073690.jpg)
+![AltSchool Africa Logo](./Images/1633989073690.jpg)
 
 
 
@@ -29,7 +29,7 @@ Install PHP 7.4 on your local linux machine using the ppa:ondrej/php package rep
 
 
  
-  ![ondrej-php](./images/ondrej-php.png)
+  ![ondrej-php](./Images/ondrej-php.png)
 
 
 
@@ -39,4 +39,4 @@ Install PHP 7.4 on your local linux machine using the ppa:ondrej/php package rep
 
 
   
-  ![PHP snap](./images/PHP%20snap.png)
+  ![PHP snap](./Images/PHP%20snap.png)
