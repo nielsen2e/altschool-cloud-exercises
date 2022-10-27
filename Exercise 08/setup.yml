@@ -10,7 +10,7 @@
         name: apache2
         # Checks if apache is present and if not,installs apache
         state: present
-   # Install php
+   # Install package repo
    - name: Install software packages
      command: apt install software-properties-common
 
