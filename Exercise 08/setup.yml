@@ -1,0 +1,32 @@
+---
+
+- name: Setup web server
+  hosts: linux
+  become: true
+  become_method : sudo
+  tasks:
+   - name: Install Apache
+     apt:
+        name: apache2
+        # Checks if apache is present and if not,installs apache
+        state: present
+   # Install php
+   - name: Install software packages
+     command: apt install software-properties-common
+
+   - name: Add repository ppa:ondrej/php
+     apt_repository:
+       repo="ppa:ondrej/php" state=present
+
+   - name: updating the repo
+     apt: update-cache=yes
+
+   - name: Installing php 7.4
+     apt:
+        name: php7.4
+        state: present
+
+   - name: Copying website to server
+     copy:
+       src: index.php
+       dest: /var/www/html/index.php
